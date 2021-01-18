@@ -4,7 +4,7 @@ package controller;
 class Calculate{
 	
 	public int add(int a,int b) {
-		
+		//mth add
 		return a+b;
 	}
 	
